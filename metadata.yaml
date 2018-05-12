@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31678
     wikipedia: http://www.encyclopedia.com/topic/Thomas_James_Wise.aspx
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29649#The-Serpent-Knight-and-Other-Ballads
 gutenberg_issued: '2009-08-09'
 gutenberg_type: Text
 identifiers:
